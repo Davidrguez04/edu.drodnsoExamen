@@ -1,0 +1,48 @@
+Ha pulsado la opción Gerencia
+Opción introducida crear nuevo cliente
+Ha pulsado la opción Empleado
+Opción introducida añadir compras a un cliente
+Ha pulsado la opción Gerencia
+Opción introducida crear nuevo cliente
+Ha pulsado la opción Gerencia
+Opción introducida crear nuevo cliente
+Ha pulsado la opción Empleado
+Opción introducida añadir compras a un cliente
+Ha pulsado la opción Gerencia
+Opción introducida crear nuevo cliente
+Ha pulsado la opción Empleado
+Opción introducida cálculo total de ventas mensuales
+Ha pulsado la opción Gerencia
+Ha pulsado la opción Gerencia
+Opción introducida crear nuevo cliente
+Ha pulsado la opción Empleado
+Opción introducida cálculo total de ventas mensuales
+Ha pulsado la opción Gerencia
+Opcion introducida fuera de rango!!!
+Ha pulsado la opción Empleado
+Opción introducida añadir compras a un cliente
+Ha pulsado la opción Gerencia
+Opción introducida crear nuevo cliente
+Ha pulsado la opción Gerencia
+Opción introducida crear nuevo cliente
+Ha pulsado la opción Empleado
+Opción introducida añadir compras a un cliente
+Ha pulsado la opción Empleado
+Opción introducida añadir compras a un cliente
+Ha pulsado la opción Empleado
+Opción introducida añadir compras a un cliente
+Ha pulsado la opción Empleado
+Opción introducida cálculo total de ventas mensuales
+Ha pulsado la opción Gerencia
+Opción introducida crear nuevo cliente
+Ha pulsado la opción Gerencia
+Opción introducida crear nuevo cliente
+Ha pulsado la opción Empleado
+Opción introducida añadir compras a un cliente
+Ha pulsado la opción Empleado
+Opción introducida añadir compras a un cliente
+Ha pulsado la opción Empleado
+Opción introducida añadir compras a un cliente
+Ha pulsado la opción Empleado
+Opción introducida cálculo total de ventas mensuales
+Opción introducida salir de la aplicación!!
